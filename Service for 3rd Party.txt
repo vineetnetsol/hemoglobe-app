@@ -1,0 +1,20 @@
+link for app
+https://i.diawi.com/DsEpmQ
+
+
+
+API for 3rd Parties
+
+3rd parties can integrate the following API to fetch the Blood Donars data available with Hemoglobe.
+
+End Point:
+https://xes7vwbx99.execute-api.ap-south-1.amazonaws.com/prod/search/donor
+
+Headers:
+	{"x-api-key":"gxbFjToCsHaHeD9s6LjpH2SJVmAUX8go6nNmvvfQ"}
+
+Body:
+{
+	"city": "Chandigarh",
+	"blood_group": "B+"
+}
